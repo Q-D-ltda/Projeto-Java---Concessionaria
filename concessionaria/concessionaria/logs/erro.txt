@@ -1,0 +1,3 @@
+Essa mensagem vai para o arquivo de log.
+java.lang.ArithmeticException: / by zero
+	at App.main(App.java:11)
